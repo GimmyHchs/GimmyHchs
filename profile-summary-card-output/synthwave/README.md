@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/GimmyHchs/GimmyHchs/master/profile-summary-card-output/synthwave/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/GimmyHchs/GimmyHchs/master/profile-summary-card-output/synthwave/4-productive-time.svg)
+```
+
+    

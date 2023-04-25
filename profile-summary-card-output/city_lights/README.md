@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/GimmyHchs/GimmyHchs/master/profile-summary-card-output/city_lights/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/GimmyHchs/GimmyHchs/master/profile-summary-card-output/city_lights/4-productive-time.svg)
+```
+
+    
